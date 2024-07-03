@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+.css-font {
+    font-family: "Lucida Console";
+    font-size: 2rem;
+}
+
+.google {
+    font-size: 3rem;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "MORF" 0,
+        "SHLN" 50;
+}

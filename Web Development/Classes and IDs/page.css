@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+#outside {
+    border: 5px solid green
+}
+
+.inside {
+    color: red;
+    border: 5px solid aqua;
+    font-size: 25px;
+}
+
+#unique {
+    font-size: 50px;
+}
